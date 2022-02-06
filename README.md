@@ -19,4 +19,4 @@ projet docker B3
 --On vérifie si l'application sur un navigateur on tape "http://localhost:3000" normalement une page de connexion s'affiche.
 
 Étape antérieurs
---N'oubliee pas de créér vos deux fichiers dockerfile frontend et backend avant le docker-compose. Mettre chaque dockerfile dans leur bon dossier.
+--N'oubliez pas de créer vos deux fichiers dockerfile frontend et backend avant le docker-compose. Mettre chaque dockerfile dans leur bon dossier.
